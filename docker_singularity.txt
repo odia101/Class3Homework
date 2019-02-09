@@ -1,6 +1,8 @@
 1. Singularity is used in HPC while docker is not
-2. SIngularity is preferred for privacy and security purpose since HPC environments allows multi users to have 
+2. Singularity is preferred for privacy and security purpose since HPC environments allows multi users to have 
 access only to their own data
 3. Singularity works completely independent of docker with abilty to import docker images and convert them to 
 singularity images
 4. Singularity can run docker container directly
+5. Singularity is more commongly used than docker and doesn't require change in architecture and workflow
+6. The down side is that singularity is slow compared to docker which saves time due to its docker image
