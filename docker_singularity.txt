@@ -1,0 +1,4 @@
+1. Singularity is used in HPC while docker is not
+2. SIngularity is preferred for privacy and security purpose since HPC environments allows multi users to have 
+access only to their own data
+3.
